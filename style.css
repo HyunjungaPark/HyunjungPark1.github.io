@@ -85,12 +85,6 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 0;  
 }
-center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 /**
  * Layout styles
  */
